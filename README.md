@@ -5,6 +5,8 @@ This project showcases multiple testimonial cards arranged in a visually appeali
 
 ## 🧠 Overview
 
+[Site](https://wgalik.github.io/testimonials-grid-section-main/)
+
 ### 🎯 Objective
 
 To build a testimonials section that matches the given design layout across both mobile and desktop devices.
